@@ -5,4 +5,4 @@
  * @author chad_chen
  *
  */
-package cn.codeworks.learn_spark;
+package cn.codeworks.learn.spark;

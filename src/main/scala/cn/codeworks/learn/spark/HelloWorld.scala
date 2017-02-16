@@ -1,4 +1,6 @@
-package cn.codeworks.learn_spark
+
+
+package cn.codeworks.learn.spark
 
 object HelloWorld {
   def main(args: Array[String]): Unit = {

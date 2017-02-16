@@ -1,5 +1,7 @@
 
-package cn.codeworks.learn_spark
+
+
+package cn.codeworks.learn.spark
 
 import org.apache.spark.SparkContext
 import org.apache.spark.SparkConf
